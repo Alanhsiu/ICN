@@ -1,0 +1,6 @@
+The Client is running..
+Connect to 127.0.0.1, using port number 2089
+Received the message from server: Please input a question for calculation
+Question: dist 4,3 1,7
+Answer: 5.0
+N
